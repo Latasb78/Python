@@ -1,6 +1,6 @@
 # ChessDictionaryValidator.py
 print("Name:Lata.S.B",
-       "AUID:1AY24AI060",
+       "USN:1AY24AI060",
        "Section:O")
 def is_valid_chess_position(position):
     """Check if the board position key is valid, e.g., 'a1' to 'h8'"""
