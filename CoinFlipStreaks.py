@@ -1,3 +1,4 @@
+print("Name:Lata.S.B","USN:1AY24AI060","Section:'O'")
 def main():
     # Number of coin flips
     num_flips = 1000
