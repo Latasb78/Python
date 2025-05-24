@@ -1,3 +1,4 @@
+print("Name:Lata.S.B","USN:1AY24AI060","Section:'O'")
 def collatz(n):
     while n != 1:
         print(n, end=' → ')
